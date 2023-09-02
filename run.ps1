@@ -1,0 +1,2 @@
+cd Hexxagon
+./main.exe
